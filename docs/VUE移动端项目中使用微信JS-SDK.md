@@ -145,6 +145,7 @@ jsapi_ticket是企业号号用于调用微信JS接口的临时票据，生成签
             });
 ```
 
+
 ## 链接
 
 [文档](http://qydev.weixin.qq.com/wiki/index.php?title=%E5%BE%AE%E4%BF%A1JS-SDK%E6%8E%A5%E5%8F%A3)
